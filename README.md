@@ -1,2 +1,0 @@
-# myntra-clone
-#myntraclone
